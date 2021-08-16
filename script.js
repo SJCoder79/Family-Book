@@ -1,5 +1,5 @@
-var images = ["https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387701617l/120654.jpg", "https://ak.picdn.net/shutterstock/videos/1014618032/thumb/8.jpg", "https://ak.picdn.net/shutterstock/videos/1015448638/thumb/2.jpg", "https://i.pinimg.com/originals/39/47/6f/39476f69d99b889b6ef9ca57091a79c6.jpg"];
-var names = ["Family Book", "Mom", "Dad", "Me"];
+var images = ["https://as2.ftcdn.net/jpg/01/15/47/87/500_F_115478791_GG0yIcVA8Mhe6MAXEvgcfyL7JtuVfYvm.jpg", "https://lh3.googleusercontent.com/proxy/KCzVb0mD-DWJmjwakjKD8QLLqEE7Y9-Ztf7Hv4tsh3a_6GWonvfn_PY4Dz0LNxIuWJCWpV2f1Wu5sb5adnHQcaVcR3skeJf7OvFExLk4ug", "https://previews.123rf.com/images/yupiramos/yupiramos1712/yupiramos171207137/91230755-young-girl-kid-character-standing-cartoon-vector-illustration.jpg"];
+var names = ["Mom", "Dad", "Me"];
 var i = 0;
 
 function update(){
