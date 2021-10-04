@@ -1,5 +1,5 @@
-var images = ["https://as2.ftcdn.net/jpg/01/15/47/87/500_F_115478791_GG0yIcVA8Mhe6MAXEvgcfyL7JtuVfYvm.jpg", "https://lh3.googleusercontent.com/proxy/viy7XjvLGbz3z_OaAyS5c5E6ihzsoMK-mMCr9Hza2QN3-BmwgA1NOmV50Q2wrGNjphTA8OhEP7IDBcZM_wpr3uKAVDDzyLKHHvpyGqA9BQ", "https://previews.123rf.com/images/yupiramos/yupiramos1712/yupiramos171207137/91230755-young-girl-kid-character-standing-cartoon-vector-illustration.jpg", "family.png"];
-var names = ["Mom", "Dad", "Me", "Us"];
+var images = ["https://thumbs.dreamstime.com/b/beautiful-businesswoman-cartoon-character-business-woman-holding-clipboard-vector-illustration-white-background-198943109.jpg", "https://previews.123rf.com/images/vectorkif/vectorkif1709/vectorkif170900013/85709526-business-man-cartoon-character-in-smart-clothes-office-style-young-handsome-businessman-in-suit-stan.jpg", "https://i.pinimg.com/originals/cb/74/cd/cb74cd3f288ef63bd2ca93a566edda95.jpg","https://image.shutterstock.com/image-vector/cute-kid-welcomevector-illustration-260nw-514865776.jpg","https://thumbs.dreamstime.com/b/family-kids-happy-family-cartoon-caracters-family-family-mother-father-brothers-family-couple-children-group-73828734.jpg"];
+var names = ["Mom", "Dad", "Me", "Brother","Us"];
 var i = 0;
 
 function update(){
